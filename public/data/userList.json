@@ -1,0 +1,74 @@
+{
+  "HEADER":{
+     "actionType":"ME_PHM0910_03",
+     "callId":"null",
+     "resultType":"SUCCESS",
+     "resultCode":"null",
+     "resultMessage":"조회가 완료되었습니다.",
+     "redirectUrl":"null",
+     "redirectParamMapId":"null"
+  },
+  "data":{
+     "data":[
+        {
+           "emp_id":"ovyJv78N4CAy00Ab30DH2A==",
+           "person_id":"241",
+           "locale_cd":"KO",
+           "company_cd":"01",
+           "emp_no":"0241",
+           "emp_nm":"홍길동",
+           "pos_grd_nm":"1급",
+           "pos_grd_ymd":"2020-07-16 00:00:00.0",
+           "pos_cd":"130",
+           "pos_nm":"전무이사",
+           "org_id":"120",
+           "org_cd":"00120",
+           "org_nm":"공연기획팀",
+           "duty_nm":"그룹장",
+           "duty_ymd":"2020-07-16 00:00:00.0",
+           "emp_stat":"재직",
+           "emp_kind_pos_nm":"1급/정규직"
+        },
+        {
+          "emp_id":"ovyJv78N4CAy00Ab30DH2A==",
+          "person_id":"241",
+          "locale_cd":"KO",
+          "company_cd":"01",
+          "emp_no":"0243",
+          "emp_nm":"김한기",
+          "pos_grd_nm":"1급",
+          "pos_grd_ymd":"2020-07-16 00:00:00.0",
+          "pos_cd":"130",
+          "pos_nm":"전무이사",
+          "org_id":"120",
+          "org_cd":"00120",
+          "org_nm":"공연기획팀",
+          "duty_nm":"그룹장",
+          "duty_ymd":"2020-07-16 00:00:00.0",
+          "emp_stat":"재직",
+          "emp_kind_pos_nm":"1급/정규직"
+       },
+       {
+        "emp_id":"ovyJv78N4CAy00Ab30DH2A==",
+        "person_id":"241",
+        "locale_cd":"KO",
+        "company_cd":"01",
+        "emp_no":"0249",
+        "emp_nm":"김정현",
+        "emp_for_nm1":"GWAK HOON-DO",
+        "emp_for_nm2":"廓勳道",
+        "pos_grd_nm":"1급",
+        "pos_grd_ymd":"2020-07-16 00:00:00.0",
+        "pos_cd":"130",
+        "pos_nm":"전무이사",
+        "org_id":"120",
+        "org_cd":"00120",
+        "org_nm":"공연기획팀",
+        "duty_nm":"그룹장",
+        "duty_ymd":"2020-07-16 00:00:00.0",
+        "emp_stat":"재직",
+        "emp_kind_pos_nm":"1급/정규직"
+     }
+     ]
+  }
+}

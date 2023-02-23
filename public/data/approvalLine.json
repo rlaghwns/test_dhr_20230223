@@ -1,0 +1,12 @@
+{
+  "result" :{"code": 0, "message":"success"}, 
+  "count" : 15, 
+  "data":{
+    "approval":[{ "CanEdit":false, "cd_id":100, "cd": "결재", "cd_nm": "김한기 팀장" },
+    { "cd_id":100, "cd": "결재", "cd_nm": "김정현 팀장" },
+    { "cd_id":200, "cd": "합의", "cd_nm": "김정현 팀장2" }],
+    "approval2":[
+    { "cd_id":100, "cd": "결재", "cd_nm": "홍길동 이사" }]
+  }
+  
+}

@@ -1,0 +1,27 @@
+{
+  "HEADER":{
+  "actionType":"retrieve",
+  "callId":"null",
+  "resultType":"SUCCESS",
+  "resultCode":"null",
+  "resultMessage":"조회가 완료되었습니다.",
+  "redirectUrl":"null",
+  "redirectParamMapId":"null"
+  },
+  "data":{
+      "list":[
+        {
+          "emp_no2":"04",
+          "emp_no3":"하위 딜로이드4"
+        },
+        {
+          "emp_no2":"05",
+          "emp_no3":"하위 딜로이드5"
+        },
+        {
+          "emp_no2":"06",
+          "emp_no3":"하위 딜로이드6"
+        }
+      ] 
+      }
+  }

@@ -1,0 +1,30 @@
+{
+  "HEADER":{
+  "actionType":"retrieve",
+  "callId":"null",
+  "resultType":"SUCCESS",
+  "resultCode":"null",
+  "resultMessage":"조회가 완료되었습니다.",
+  "redirectUrl":"null",
+  "redirectParamMapId":"null"
+  },
+  "data":{
+      "list":
+        {
+          "treeName":"계정기준관리",
+          "treeItem":[{
+            "index":6,
+            "name":"지급항목계정관리"
+          },
+          {
+            "index":7,
+            "name":"공제항목관리"
+          },
+          {
+            "index":8,
+            "name":"사회보험계정관리"
+          }]
+        }
+       
+      }
+  }

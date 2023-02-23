@@ -1,0 +1,32 @@
+{
+  "HEADER":{
+  "actionType":"retrieve",
+  "callId":"null",
+  "resultType":"SUCCESS",
+  "resultCode":"null",
+  "resultMessage":"조회가 완료되었습니다.",
+  "redirectUrl":"null",
+  "redirectParamMapId":"null"
+  },
+  "data":{
+      "list":[
+        {
+          "emp_no2":"AUT0010_00_B01",
+          "emp_no3":"com.dhr.common"
+        },
+        {
+          "emp_no2":"AUT0010_00_B02",
+          "emp_no3":"com.dhr.common2"
+        },
+        {
+          "emp_no2":"AUT0010_00_B03",
+          "emp_no3":"com.dhr.common3"
+        },
+        {
+          "emp_no2":"AUT0010_00_B04",
+          "emp_no3":"com.dhr.common4"
+        }
+      
+      ] 
+      }
+  }

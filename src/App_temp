@@ -1,0 +1,54 @@
+// import React from "react";
+// import logo from "./logo.svg";
+// import "./App.css";
+// import { addCols } from "./utils/common";
+// import Tabs2 from "./temp/Tabs2";
+// import Tabs3 from "./temp/Tabs3";
+// import { addCols2, addType } from "./utils/common2";
+
+// type profile = {
+//   name: string;
+//   age?: number;
+// };
+
+// type UserType = {
+//   name?: string;
+//   onChange?: (event: React.ChangeEvent<HTMLInputElement>) => void;
+//   onClick?: (event: React.MouseEvent<HTMLButtonElement>) => void;
+// };
+
+// type clickPrors = {
+//   name?: string;
+//   onClick?: (event: React.MouseEvent) => void;
+// };
+
+// const buttonHandler = () => {
+//   console.log("buttonHandler !!!!");
+// };
+
+// const buttonHandler2 = (e: any, pro: clickPrors) => {
+//   console.log("buttonHandler !!!22222!");
+// };
+
+// function App() {
+//   const a = addCols("", "", "", true);
+//   let aaa: UserType = {
+//     onClick: (e) => {},
+//   };
+
+//   console.log("addCols : ", a);
+//   console.log("addCols : ", aaa.name);
+
+//   addCols2({ Header: "", Name: "", Type: "" });
+
+//   return (
+//     <div className="App">
+//       <div onClick={buttonHandler}>asdasdasdasd</div>
+//       <Tabs2></Tabs2>
+//       <Tabs3 name="김한기"></Tabs3>
+//       <Tabs3></Tabs3>
+//     </div>
+//   );
+// }
+
+// export default App;

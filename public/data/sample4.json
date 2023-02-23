@@ -1,0 +1,36 @@
+{
+  "HEADER":{
+  "actionType":"retrieve",
+  "callId":"null",
+  "resultType":"SUCCESS",
+  "resultCode":"null",
+  "resultMessage":"조회가 완료되었습니다.",
+  "redirectUrl":"null",
+  "redirectParamMapId":"null"
+  },
+  "data":{
+      "list":[
+        {
+          "emp_no5":"123",
+          "emp_no6":"100",
+          "emp_no7":"550000",
+          "emp_no8":"상여1",
+          "emp_no9":"55005500"
+        },
+        {
+          "emp_no5":"131",
+          "emp_no6":"200",
+          "emp_no7":"550020",
+          "emp_no8":"퇴직금",
+          "emp_no9":"55003300"
+        },
+        {
+          "emp_no5":"132",
+          "emp_no6":"300",
+          "emp_no7":"550022",
+          "emp_no8":"복리후생",
+          "emp_no9":"55004400"
+        }
+      ] 
+      }
+  }

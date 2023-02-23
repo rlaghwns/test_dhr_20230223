@@ -1,0 +1,54 @@
+{
+  "HEADER":{
+  "actionType":"retrieve",
+  "callId":"null",
+  "resultType":"SUCCESS",
+  "resultCode":"null",
+  "resultMessage":"조회가 완료되었습니다.",
+  "redirectUrl":"null",
+  "redirectParamMapId":"null"
+  },
+  "data":{
+      "list":
+        {
+          "index":1,
+          "treeName":"1댑스 딜로이트",
+          "loadSheet":false,
+          "treeItem":[
+            {
+              "index":2,
+              "treeName":"2댑스 임원",
+              "loadSheet":false,
+              "treeItem":[{
+                            "index":3,
+                            "loadSheet":true,
+                            "treeName":"3댑스 연구1팀"
+                            
+                          },
+                          {
+                            "index":4,
+                            "loadSheet":true,
+                            "treeName":"3댑스 연구2팀"
+                          },
+                          {
+                            "index":5,
+                            "loadSheet":true,
+                            "treeName":"3댑스 사회보험계정관리"
+                          }
+                        ]
+                    },
+                      {
+                        "index":7,
+                        "loadSheet":true,
+                        "treeName":"2댑스 서울연구소"
+                      },
+                      {
+                        "index":8,
+                        "loadSheet":true,
+                        "treeName":"2댑스 영업본부"
+                      }
+                     
+                    ]
+        }
+      }
+  }
